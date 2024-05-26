@@ -1,0 +1,54 @@
+    1  clear
+    2  whoami
+    3  pwd
+    4  echo bonjour mes collegues
+    5  x=25
+    6  echo $x
+    7  echo $HOME
+    8  echo c'est moi l'utilisateur $USER mon shell est le $SHELL
+    9  echo "C'est moi l'utilisateur $USER mon shell est le $SHELL"
+   10  echo C\'est moi l\'utilisateur $USER mon shell est le $SHELL
+   11  ls
+   12  ls-l
+   13  ls -l
+   14  ls -a
+   15  clear
+   16  whatis ls
+   17  whatis whatis
+   18  man ls
+   19  man man
+   20  whatis ls cp
+   21  whatis
+   22  ls
+   23  pwd
+   24  ls ..-l -a
+   25  ls ..
+   26  pwd
+   27  ls ..-l -a
+   28  ls .. -l -a
+   29  cd ..
+   30  pwd
+   31  cd /
+   32  cd ..
+   33  cd /home
+   34  ls
+   35  cd /
+   36  ls -la
+   37  cd bin
+   38  ls
+   39  cd ~
+   40  pwd
+   41  mkdir tp1
+   42  cd tp1
+   43  mkdir test1
+   44  mkdir test2
+   45  cd test1
+   46  ls fichier.txt
+   47  cp fichier.txt fichier_copie.txt
+   48  touch fichier.txt
+   49  cp fichier.txt fichier_copie.txt
+   50  mv fichier.txt fichier_avec_autre_nom.txt
+   51  ls -l
+   52  history > atelier_1.txt
+   53  cd /home/alaaeddine
+   54  history > atelier_1.txt

@@ -1,0 +1,27 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/db # URL JDBC pour MySQL
+    username: root
+    password:
+    driver-class-name: com.mysql.cj.jdbc.Driver  # Pilote JDBC pour
+  security:
+    cors:
+      allowed-origins:
+        - "http://localhost:3000"
+        - "http://localhost:8080"
+      allowed-methods: "POST"
+      allowed-headers: "*"
+      allow-credentials: true
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+
+main:
+  web-application-type: servlet
