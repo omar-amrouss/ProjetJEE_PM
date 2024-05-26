@@ -5,9 +5,9 @@ Voici une version réorganisée et formalisée du fichier `README.md` :
 ## Pour la partie Front-end:
 
 1. **Naviguer dans le répertoire client**  
-   Utilisez la commande suivante pour vous rendre dans le répertoire `front_end` :
+   Utilisez la commande suivante pour vous rendre dans le répertoire `Front_end` :
    ```bash
-   cd ProjetJEE_PM/front_end
+   cd ProjetJEE_PM/Front_end
    ```
 
 2. **Installer les dépendances**  
