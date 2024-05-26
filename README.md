@@ -1,5 +1,3 @@
-Voici une version réorganisée et formalisée du fichier `README.md` :
-
 # Instructions pour démarrer l'application:
 
 ## Pour la partie Front-end:
