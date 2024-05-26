@@ -45,8 +45,9 @@
    ouvrir le fichier application.yml qui se trouve dans le chemin :
    ![image](https://github.com/omar-amrouss/ProjetJEE_PM/assets/133509604/ef73be9c-b2cb-426d-9c10-3fbd10fd4ccf)
    Puis le configurer suivant votre configuration
+   
    Vous devez diposer d'un serveur Mysql : Mysql ou wampserver, laragon, ou Xampp. 
-3. **Lancer l'application**
+4. **Lancer l'application**
    Vous pouver lancer l'application en depuis la classe DevAppAplication.java:
    ![image](https://github.com/omar-amrouss/ProjetJEE_PM/assets/133509604/4e73bcee-6571-4834-aa7c-8145ce79d611)
 
