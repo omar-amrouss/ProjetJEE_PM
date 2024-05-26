@@ -27,5 +27,4 @@
 4. **Ouvrir l'application dans le navigateur**  
    Rendez-vous à l'adresse suivante pour voir l'application en action :
    [http://localhost:3000](http://localhost:3000)
-```
 
