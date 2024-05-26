@@ -29,4 +29,3 @@
    [http://localhost:3000](http://localhost:3000)
 ```
 
-Cela donne des instructions claires et formatées pour aider les utilisateurs à configurer et démarrer votre application correctement.
