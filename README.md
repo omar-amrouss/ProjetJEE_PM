@@ -1,7 +1,7 @@
 Voici une version réorganisée et formalisée du fichier `README.md` :
 
 ```markdown
-# Instructions pour démarrer l'application
+##Instructions pour démarrer l'application
 
 1. **Naviguer dans le répertoire client**  
    Utilisez la commande suivante pour vous rendre dans le répertoire `front_end` :
