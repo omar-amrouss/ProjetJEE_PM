@@ -1,5 +1,10 @@
 # Instructions pour démarrer l'application:
 
+ **Cloner le projet depuis GitHub**  
+   Clonez le dépôt en utilisant la commande suivante :
+   ```bash
+   git clone https://github.com/omar-amrouss/ProjetJEE_PM.git
+
 ## Pour la partie Front-end:
 
 1. **Naviguer dans le répertoire client**  
