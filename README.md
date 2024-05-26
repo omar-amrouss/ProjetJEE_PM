@@ -48,7 +48,7 @@
    
    Vous devez diposer d'un serveur Mysql : Mysql ou wampserver, laragon, ou Xampp. 
 4. **Lancer l'application**
-   Vous pouver lancer l'application en depuis la classe DevAppAplication.java:
+   Vous pouvez lancer l'application en depuis la classe DevAppAplication.java:
    ![image](https://github.com/omar-amrouss/ProjetJEE_PM/assets/133509604/4e73bcee-6571-4834-aa7c-8145ce79d611)
 
 
