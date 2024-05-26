@@ -1,11 +1,13 @@
 Voici une version réorganisée et formalisée du fichier `README.md` :
 
-# Instructions pour démarrer l'application
+# Instructions pour démarrer l'application:
+
+## Pour la partie Front-end:
 
 1. **Naviguer dans le répertoire client**  
    Utilisez la commande suivante pour vous rendre dans le répertoire `front_end` :
    ```bash
-   cd chemin_du_dossier/front_end
+   cd ProjetJEE_PM/front_end
    ```
 
 2. **Installer les dépendances**  
