@@ -44,7 +44,7 @@
 2. **Configuration d'application**
    ouvrir le fichier application.yml qui se trouve dans le chemin :
    ![image](https://github.com/omar-amrouss/ProjetJEE_PM/assets/133509604/ef73be9c-b2cb-426d-9c10-3fbd10fd4ccf)
-   Puis le configurer suivant votre configuration
+   Puis le configurer suivant votre configuration.
    
    Vous devez diposer d'un serveur Mysql : Mysql ou wampserver, laragon, ou Xampp. 
 4. **Lancer l'application**
