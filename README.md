@@ -33,3 +33,16 @@
    Rendez-vous à l'adresse suivante pour voir l'application en action :
    [http://localhost:3000](http://localhost:3000)
 
+
+## Pour la partie Back-end:
+1. **Naviguer dans le répertoire Back-end**  
+   Utilisez la commande suivante pour vous rendre dans le répertoire `Back_end` en ulilisant IDE IntelliJ IDEA :
+   ```bash
+   cd ProjetJEE_PM/Back_end
+   ```
+
+2. **Configuration d'application**
+   ouvrir le fichier application.yml qui se trouve dans le chemin :
+   ![image](https://github.com/omar-amrouss/ProjetJEE_PM/assets/133509604/ef73be9c-b2cb-426d-9c10-3fbd10fd4ccf)
+   Puis le configurer suivant votre configuration
+
