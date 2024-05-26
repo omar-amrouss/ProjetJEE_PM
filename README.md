@@ -1,6 +1,5 @@
 Voici une version réorganisée et formalisée du fichier `README.md` :
 
-```markdown
 ##Instructions pour démarrer l'application
 
 1. **Naviguer dans le répertoire client**  
