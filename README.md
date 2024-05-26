@@ -1,6 +1,6 @@
 # Instructions pour démarrer l'application:
 
- **Cloner le projet depuis GitHub**  
+1. **Cloner le projet depuis GitHub**  
    Clonez le dépôt en utilisant la commande suivante :
    ```bash
    git clone https://github.com/omar-amrouss/ProjetJEE_PM.git
